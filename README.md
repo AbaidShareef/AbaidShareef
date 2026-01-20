@@ -1,16 +1,22 @@
-## Hi there 👋
+## 👋 Hi, I'm Abaid
 
-<!--
-**AbaidShareef/AbaidShareef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Staff-level Full Stack Engineer with 4+ years of experience building
+SaaS platforms, CRMs, OTT applications, and recommendation systems.
 
-Here are some ideas to get you started:
+### What I specialize in
+- Designing scalable backend systems (Node.js, SQL, Redis)
+- Building production-grade React applications
+- Architecting multi-tenant SaaS platforms
+- Data-driven recommendation systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Projects
+- Multi-Tenant SaaS CRM (in progress)  
+- Recommendation Engine for OTT Platforms  
+- High-Scale Backend API System
+
+### Engineering Philosophy
+- Clean architecture over quick hacks
+- Tradeoffs > frameworks
+- Performance and scalability matter
+
+### Reach me: [LinkedIn](https://www.linkedin.com/in/abaidshareef) | [Gmail](abaidshareef501@gmail.com)
