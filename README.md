@@ -19,4 +19,4 @@ SaaS platforms, CRMs, OTT applications, and recommendation systems.
 - Tradeoffs > frameworks
 - Performance and scalability matter
 
-### Reach me: [LinkedIn](https://www.linkedin.com/in/abaidshareef) | [Gmail](abaidshareef501@gmail.com)
+### Reach me: [LinkedIn](https://www.linkedin.com/in/abaidshareef) | abaidshareef501@gmail.com
